@@ -1,1 +1,15 @@
 # AI_CHATBOT
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : GALLA PRADEEP KUMAR
+
+**INTERN ID** : CT6WDS2739
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot (8)](https://github.com/user-attachments/assets/fe561a1c-1f29-4a47-98c7-d1a6bee60dc1)
